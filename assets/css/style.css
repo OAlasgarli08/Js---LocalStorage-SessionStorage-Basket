@@ -1,0 +1,9 @@
+header .navigation .basket-icon{
+    display: inline-block;
+    margin-right: 100px;
+}
+
+
+header .container-fluid{
+    display: inline-block;
+}
